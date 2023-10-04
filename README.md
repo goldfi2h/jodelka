@@ -3,11 +3,17 @@ Program tworzący wzór jodełki z liczb - scilab
  
 # Treść zadania
 Skonstruuj algorytm, który wypełnia „jodełką” tablicę kwadratową o wymiarze n. Np. dla n równego 5, tablica ta jest postaci: 
+
 1 1 1 1 1 
+
 1 2 2 2 2 
+
 1 2 3 3 3 
+
 1 2 3 4 4 
+
 1 2 3 4 5
+
 2. Opis słowny algorytmu
 
 Dane wejściowe:
